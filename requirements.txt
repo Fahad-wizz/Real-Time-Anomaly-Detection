@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+tensorflow
+fastapi
+uvicorn
+streamlit
+plotly
+python-pptx
